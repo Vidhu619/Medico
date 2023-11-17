@@ -1,0 +1,24 @@
+/* Navbar.css */
+
+/* Style the navbar links */
+.nav-link {
+    color: #ffffff;
+    margin-right: 10px;
+  }
+  
+  /* Style the active link */
+  .nav-link.active {
+    font-weight: bold;
+  }
+  
+  /* Center the brand */
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Add margin to the brand */
+  .navbar-brand h4 {
+    margin-left: 10px;
+  }
+  
